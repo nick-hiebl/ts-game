@@ -1,4 +1,4 @@
-import { addSetup, addUpdate, Canvas } from './visual';
+import { addSetup, addUpdate, Canvas } from './visual.js';
 
 var canvas: Canvas;
 
